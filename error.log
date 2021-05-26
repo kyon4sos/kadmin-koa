@@ -1,0 +1,22 @@
+{"message":{},"level":"error","service":"koa-admin","timestamp":"2021/04/21 17:42:38"}
+{"message":"WHERE parameter \"username\" has invalid \"undefined\" value","level":"error","service":"koa-admin","timestamp":"2021/04/21 17:43:15"}
+{"message":"WHERE parameter \"username\" has invalid \"undefined\" value","level":"error","service":"koa-admin","timestamp":"2021/04/21 17:44:02"}
+{"message":"WHERE parameter \"username\" has invalid \"undefined\" value","level":"error","service":"koa-admin","timestamp":"2021/04/21 17:44:26"}
+{"message":"WHERE parameter \"username\" has invalid \"undefined\" value","level":"error","service":"koa-admin","timestamp":"2021/04/21 17:45:16"}
+{"message":"data and hash arguments required","level":"error","service":"koa-admin","timestamp":"2021/04/21 17:46:00"}
+{"message":"data and hash arguments required","level":"error","service":"koa-admin","timestamp":"2021/04/21 17:48:33"}
+{"message":{"errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6380},"level":"error","service":"koa-admin","timestamp":"2021/04/21 19:21:18"}
+{"message":"WHERE parameter \"username\" has invalid \"undefined\" value","level":"error","service":"koa-admin","timestamp":"2021/04/22 00:02:43"}
+{"message":"Cannot read property 'prexfix' of undefined","level":"error","service":"koa-admin","timestamp":"2021/04/22 00:16:25"}
+{"message":"prefix is not defined","level":"error","service":"koa-admin","timestamp":"2021/04/22 00:17:02"}
+{"message":"key is not defined","level":"error","service":"koa-admin","timestamp":"2021/04/22 00:17:58"}
+{"message":"key is not defined","level":"error","service":"koa-admin","timestamp":"2021/04/22 00:20:28"}
+{"message":"key is not defined","level":"error","service":"koa-admin","timestamp":"2021/04/22 00:21:03"}
+{"message":"WHERE parameter \"username\" has invalid \"undefined\" value","level":"error","service":"koa-admin","timestamp":"2021/04/22 00:45:32"}
+{"message":"WHERE parameter \"username\" has invalid \"undefined\" value","level":"error","service":"koa-admin","timestamp":"2021/04/22 00:47:59"}
+{"message":"WHERE parameter \"username\" has invalid \"undefined\" value","level":"error","service":"koa-admin","timestamp":"2021/04/22 00:48:00"}
+{"message":"WHERE parameter \"username\" has invalid \"undefined\" value","level":"error","service":"koa-admin","timestamp":"2021/04/22 00:48:01"}
+{"message":"WHERE parameter \"username\" has invalid \"undefined\" value","level":"error","service":"koa-admin","timestamp":"2021/04/22 00:48:02"}
+{"message":"WHERE parameter \"username\" has invalid \"undefined\" value","level":"error","service":"koa-admin","timestamp":"2021/04/22 00:48:02"}
+{"message":"Invalid value { id: 'neko222' }","level":"error","service":"koa-admin","timestamp":"2021/04/22 01:22:30"}
+{"message":"UserModel.destory is not a function","level":"error","service":"koa-admin","timestamp":"2021/04/22 01:23:56"}
